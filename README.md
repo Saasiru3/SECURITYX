@@ -15,7 +15,7 @@ Enterprise network security lab using pfSense, IDS Suricata and segmented networ
 ![Reglas WAN](screenshots/reglas_wan.png)
 
 ### Reglas de Firewall – Servidores (OPT1)
-![Reglas OPT1](screenshots/reglas_opti1.png)
+![Reglas OPT1](screenshots/reglas_opt1.png)
 
 ### Reglas de Firewall – DMZ (OPT2)
 ![Reglas OPT2](screenshots/reglas_opt2.png)
